@@ -1,3 +1,8 @@
+Link to live website: https://restaurant-nextjs-lilac.vercel.app/order/cafe
+Link to control panel: https://restaurant-nextjs-lilac.vercel.app/admin/orders
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
